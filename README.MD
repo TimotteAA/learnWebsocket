@@ -1,3 +1,6 @@
+# websocket感谢
+H5自带的WebSocket的使用，感觉与事件总线啥的很像，监听事件、触发事件等等，服务器监听connection事件，然后广播收到的message；同时客户端监听message事件。
+
 # websocket
 
     1. open事件
